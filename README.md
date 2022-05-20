@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntishaOS
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning JavaScript and jQuery
+- 🌱 I’m currently learning jQuery and Python
 - 💞️ I’m looking to collaborate on web page design
 - 📫 Reach me at antisha08@gmail.com
 
